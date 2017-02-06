@@ -3,7 +3,7 @@
 ##  This GUI based toolbox is designed to either generate new or modify
 ##  existing Lindemayer systems/grammars. 
 
-Lindenmayer Sytem Generator:
+Lindenmayer System Generator:
     Using the Generator you can generate predefined Lindenmayer systems 
     (e.g. Fibonacci) or you can define your own rules to create grammars. 
 
