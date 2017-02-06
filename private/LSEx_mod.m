@@ -16,7 +16,7 @@ function LSEx_mod
 %
 %
 %
-% Copyright (c) 2017, Michael Lindner
+% Copyright (c) 2017, Michael Lindner and James Douglas Saddy
 %
 % All rights reserved.
 %
