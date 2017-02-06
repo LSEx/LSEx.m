@@ -1,6 +1,6 @@
-Matlab based Lindenmayer system Explorer
+#   Matlab based Lindenmayer system Explorer
 
-This GUI based toolbox is designed to either generate new or modify
+##  This GUI based toolbox is designed to either generate new or modify
 existing Lindemayer systems/grammars. 
 
 Lindenmayer Sytem Generator
