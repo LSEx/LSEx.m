@@ -15,3 +15,5 @@ Lindenmayer System Modifier:
 See detailed description about the usage and the parameters that can be 
 specified in the User Manual, by using the help buttons or by using the
 "help" or "doc" function in Matlab.
+
+Author: Michael Lindner
