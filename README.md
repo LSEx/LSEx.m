@@ -2,6 +2,8 @@
 
 ##  This GUI based toolbox is designed to either generate new or modify existing Lindenmayer systems/grammars. 
 
+![Alt text](LSExm.png?raw=true "Title")
+
 Lindenmayer System Generator:
     Using the Generator you can generate predefined Lindenmayer systems 
     (e.g. Fibonacci) or you can define your own rules to create grammars. 
