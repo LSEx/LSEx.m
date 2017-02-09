@@ -15,7 +15,7 @@ Lindenmayer System Modifier:
     system with chains of m other ones. 
     
 See detailed description about the usage and the parameters that can be 
-specified in the Github/LSEx/LSEx.m Wiki, in the User Manual (pdf), by 
+specified in the Github/LSEx/LSEx.m [Wiki](../../wiki), in the User Manual (pdf), by 
 using the help buttons or by using the "help" or "doc" function in Matlab.
 
 Author: Michael Lindner
