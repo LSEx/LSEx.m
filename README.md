@@ -1,6 +1,6 @@
 # ![Alt text](LSExm.png?raw=true "Title")
 
-##   Matlab based Lindenmayer system Explorer
+##   Lindenmayer system Explorer for Matlab
 
 This GUI based toolbox is designed to either generate new or modify existing Lindenmayer systems/grammars. 
 
