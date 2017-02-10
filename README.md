@@ -20,3 +20,5 @@ in the User Manual (pdf), by using the help buttons on the GUI or by
 using the "help" or "doc" function in Matlab.
 
 Author: Michael Lindner
+
+Contact: l-s-ex@gmx.co.uk
