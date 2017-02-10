@@ -19,6 +19,8 @@ specified in the Github/LSEx/LSEx.m [Wiki](https://github.com/LSEx/LSEx.m/wiki),
 in the User Manual (pdf), by using the help buttons on the GUI or by 
 using the "help" or "doc" function in Matlab.
 
+**[Download LSEx.m](https://github.com/LSEx/LSEx.m)**
+
 Author: Michael Lindner
 
 Contact: l-s-ex@gmx.co.uk
