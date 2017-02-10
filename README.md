@@ -20,4 +20,4 @@ using the "help" or "doc" function in Matlab.
 
 Author: Michael Lindner
 
-Contact: ![contact email](contact.png?raw=true "contact email")
+
