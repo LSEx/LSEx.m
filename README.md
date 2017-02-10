@@ -18,7 +18,7 @@ using the "help" or "doc" function in Matlab.
 
 **[Download LSEx.m](https://github.com/LSEx/LSEx.m)**
 
-Author: Michael Lindner
+Author: Michael Lindner    
 Contact: ![contact email](contact.png?raw=true "contact email")
 
 
